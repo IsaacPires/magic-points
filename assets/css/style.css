@@ -76,3 +76,11 @@ body{
     -ms-user-select: none;
 }
 
+
+@media (max-width: 375px) {
+  #img{ 
+    width: 40px;
+    height: 50%;
+  }
+}
+
